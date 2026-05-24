@@ -1,0 +1,125 @@
+# ---------------------------------------------------------------------------
+# Visual Studio / MSBuild
+# ---------------------------------------------------------------------------
+
+# Build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio cache / options / per-user files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+*.vcxproj.user
+
+# MSBuild / VC++ intermediate
+*.tlog
+*.lastbuildstate
+*.idb
+*.pdb
+*.ipdb
+*.iobj
+*.ilk
+*.exp
+*.obj
+*.o
+*.lib
+*.a
+*.exe
+*.dll
+*.pch
+*.ipch
+*.tli
+*.tlh
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db
+*.VC.opendb
+
+# IntelliSense / Resharper / Rider
+ipch/
+*.aps
+*.ncb
+*.cab
+*.msi
+*.msm
+*.msp
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+.idea/
+
+# CMake (in case used later)
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+cmake_install.cmake
+CTestTestfile.cmake
+build/
+out/
+
+# vcpkg
+vcpkg_installed/
+
+# NuGet
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+*.nuget.props
+*.nuget.targets
+
+# Profiler / dumps
+*.psess
+*.vsp
+*.vspx
+*.sap
+*.dmp
+
+# ---------------------------------------------------------------------------
+# OS junk
+# ---------------------------------------------------------------------------
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+._*
+
+# ---------------------------------------------------------------------------
+# Editors
+# ---------------------------------------------------------------------------
+.vscode/
+*.swp
+*.swo
+*~
+
+# ---------------------------------------------------------------------------
+# Project-specific
+# ---------------------------------------------------------------------------
+# Local secrets / config overrides
+*.local
+*.env
+.env
+.env.*
+
+# Crash dumps / logs from injecting
+crash_*.dmp
+*.log
