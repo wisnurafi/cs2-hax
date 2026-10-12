@@ -109,4 +109,4 @@ Latest offsets build in this repo: **cs2-dumper 14164 (2026-05-24)**.
 
 ## License
 
-The code written in this repo is released for educational purposes. Third-party libraries (`imgui-master`, `minhook-master`, `stb_image.h`) remain under their own licenses — see `imgui-master/LICENSE.txt` and `minhook-master/LICENSE.txt`.
+MIT — see [LICENSE](LICENSE). Third-party libraries (`imgui-master`, `minhook-master`, `stb_image.h`) remain under their own licenses — see `imgui-master/LICENSE.txt` and `minhook-master/LICENSE.txt`.
